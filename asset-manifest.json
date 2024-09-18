@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/project-vite/static/js/main.7f5ce23f.js",
+    "main.js": "/project-vite/static/js/main.aefb485b.js",
     "index.html": "/project-vite/index.html",
-    "main.7f5ce23f.js.map": "/project-vite/static/js/main.7f5ce23f.js.map"
+    "main.aefb485b.js.map": "/project-vite/static/js/main.aefb485b.js.map"
   },
   "entrypoints": [
-    "static/js/main.7f5ce23f.js"
+    "static/js/main.aefb485b.js"
   ]
 }
