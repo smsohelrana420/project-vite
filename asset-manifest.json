@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/project-vite/static/js/main.7f5ce23f.js",
+    "index.html": "/project-vite/index.html",
+    "main.7f5ce23f.js.map": "/project-vite/static/js/main.7f5ce23f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7f5ce23f.js"
+  ]
+}
